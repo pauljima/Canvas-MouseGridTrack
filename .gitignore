@@ -1,0 +1,7 @@
+# Comment
+.DS_Store
+*.zip
+*.gz
+_*
+
+# question: would log/archive/access.log be ignored? No.

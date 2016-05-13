@@ -1,0 +1,16 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+#canvasGrid, #canvasLines {
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	margin: auto;
+
+	display: block;
+	position: absolute;
+	/*border: 1px dotted #bbb;*/
+}
